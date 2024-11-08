@@ -1,0 +1,54 @@
+#p1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: green;
+}
+
+input{
+    text-decoration: solid;
+    text-transform: initial;
+    text-shadow: 1px;
+    text-align: center;
+
+}
+#b1{
+    text-align: center;
+    justify-content: center;
+    border: 20px;
+}
+.div1{
+    margin: 100px;
+    border: 100px;
+    border-color: black;
+}
+.btn{
+    color: white;
+    background-color: green;
+}
+#p2,#p3{
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    color: green;
+}
+#p2{
+    background-color: yellow ;
+
+}
+.btn1{
+    margin: 20px;
+    background-color: #28a475;
+    padding: 10px;
+    width: 250px;
+    color: white;
+    border-style: groove;
+}
+.div2{
+    text-align: center;
+    justify-content: center;
+}
+.btn2{
+    background-color: #dc3545;
+    color: white;
+}
